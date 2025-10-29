@@ -1,4 +1,5 @@
 # Quality-of-Life-2024-Dataset-Analysis
+### Academic Project for: "ADVANCES IN DATA ANALYSIS AND STATISTICAL MODELLING", La Sapienza University of Rome.
 This project is an advanced analysis of **Quality of life 2024** dataset, conducted in Matlab, to evaluate urban living standards and to conduct a socio-economic comparison between world's top cities in 2024.
 
 ## Outline
